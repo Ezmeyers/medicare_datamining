@@ -1,4 +1,3 @@
-setwd("C:\\Users\\Ezm\\Desktop\\421_final")
 
 source("fin_proj_functions.R")
 
